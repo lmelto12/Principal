@@ -1,0 +1,55 @@
+body{
+	background-color: #F7F2E0;
+}
+header {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	color: black;
+}
+div{
+	padding-left: 2%;
+	background-color: black;
+	width: 100%;
+	overflow-y: hidden;
+}
+.nav1 a{
+	float: left;
+	color: white;
+	font-family: "arial", sans-serif;
+	font-size: 15px;
+	padding: 30px;
+	text-decoration: none;
+}
+.nav1 a:hover{
+	background-color: white;
+	color:black;
+}
+.nav1 a:active{
+	background-color: #4A0A0A;
+	color:red;
+}
+h2{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	color: black;
+}
+iframe{
+	display: block;
+	margin: auto;
+}
+footer{
+	padding: 1%;
+  	width: 100%;
+	background-color: black;
+	color:white;
+	text-align: center;
+	font-family: "Homer Simpson UI";
+}
+.icon{
+	width: 2%;
+}
+.nam{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 10px;
+	text-align: left;
+}
